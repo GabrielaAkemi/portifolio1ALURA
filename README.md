@@ -20,7 +20,7 @@ Portfólio criado para aplicar conhecimentos adquiridos no curso **ONE (Oracle N
 Este projeto tem como objetivo demonstrar minha evolução como desenvolvedora frontend, bem como servir como um espaço para compartilhar meus projetos e experiências.
 
 ## 🔗 Como Acessar
-Você pode visualizar o portfólio acessando este link: [INSIRA AQUI O LINK DO SEU PORTFÓLIO]
+Você pode visualizar o portfólio acessando este link: (https://portifolio1-alura-69uvgqs6q-gabrielaakemis-projects.vercel.app/)
 
 ---
 Se gostou do meu projeto, fique à vontade para deixar um feedback!🐱‍👤
